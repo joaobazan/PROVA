@@ -1,6 +1,6 @@
-let idade = 18;
+let idade = 17;
 if (idade >= 18) {
     console.log(`${idade} é maior de 18.`);
-} else (idade < 18) {
-    console.log(`${idade} é menor de 18.`);
+} else {
+    console.log("Menor de idade");
 }
